@@ -1,3 +1,3 @@
-# .github
+# TU Delft Airborne Wind Energy Group Codes
 
-# This is the Readme file, that should render on the landing page of awegroup
+![Taken in 2024, credits to F.Martins](awegroup_team.jpg)

@@ -8,3 +8,5 @@ If you are curious to read more about airborne wind energy in general, we recomm
 - [The white paper](https://airbornewindeurope.org/wp-content/uploads/2023/03/BVGA-Getting-Airborne-White-Paper-220929.pdf) written with many prominent people in the industry and BVGAssociates.
 
 ![Taken in 2024, credits to F.Martins](awegroup_team.jpg)
+
+link to other markdown: [](another_markdown.md)

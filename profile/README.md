@@ -9,4 +9,4 @@ If you are curious to read more about airborne wind energy in general, we recomm
 
 ![Taken in 2024, credits to F.Martins](awegroup_team.jpg)
 
-link to other markdown: ![](another_markdown.md)
+link to other markdown: [markdown](another_markdown.md)
